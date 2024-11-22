@@ -1,4 +1,4 @@
-# Olá, eu sou o Edy Souza!
+# Olá, eu sou o Edivaldo Souza
 
 Sou estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas. Certificado pela Infinity School em Programação Full Stack, aprimorei minha lógica de programação com Python e JavaScript, além de desenvolver habilidades em front-end com HTML e CSS.
 <br/>
