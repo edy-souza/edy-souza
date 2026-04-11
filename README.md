@@ -4,8 +4,8 @@ Sou estudante de Engenharia da Computação e Análise e Desenvolvimento de Sist
 <br/>
 
 <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=edy-souza&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edy-souza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=edy-souza&show_icons=true&theme=material-palenight" alt="GitHub Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edy-souza&layout=compact&theme=material-palenight" alt="Top Langs">
 </div>
 
 ## Tecnologias que eu uso no meu dia:
