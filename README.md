@@ -3,9 +3,10 @@
 Sou estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas. Certificado pela Infinity School em Programação Full Stack, aprimorei minha lógica de programação com Python e JavaScript, além de desenvolver habilidades em front-end com HTML e CSS.
 <br/>
 
+## Estatísticas do GitHub e Principais Linguagens:
 <div>
-  <img height="150" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=edy-souza&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats">
-  <img height="150" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=edy-souza&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Langs">
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edy-souza&show_icons=true&theme=algolia" alt="GitHub Stats">
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edy-souza&layout=compact&theme=algolia" alt="Top Langs">
 </div>
 
 ## Tecnologias que eu uso no meu dia:
