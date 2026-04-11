@@ -5,8 +5,8 @@ Sou estudante de Engenharia da Computação e Análise e Desenvolvimento de Sist
 
 ## Estatísticas do GitHub e Principais Linguagens:
 <div>
-  <img height="150" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=edy-souza&show_icons=true&theme=transparent" alt="GitHub Stats">
-  <img height="150" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=edy-souza&layout=compact&langs_count=7&theme=transparent" alt="Top Langs">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=edy-souza&show_icons=true&theme=dark&cache_id=1" alt="GitHub Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edy-souza&layout=compact&langs_count=7&theme=dark&cache_id=1" alt="Top Langs">
 </div>
 
 
