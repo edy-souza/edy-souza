@@ -1,6 +1,6 @@
 # Olá, eu sou o Edivaldo Souza
 
-Sou formado em Análise e Desenvolvimento de sistemas, estudante de Engenharia da Computação (último período). Certificado pela Infinity School em Programação Full Stack, aprimorei minha lógica de programação com Python e JavaScript, C#, SQL, além de desenvolver habilidades em front-end com HTML e CSS.
+Sou formado em Análise e Desenvolvimento de sistemas, estudante de Engenharia da Computação (último período). Certificado pela Infinity School em Programação Full Stack, aprimorei minha lógica de programação com Python, JavaScript, C# e SQL, além de desenvolver habilidades em front-end com HTML e CSS.
 <br/>
 
 ## Estatísticas do GitHub e Principais Linguagens:
